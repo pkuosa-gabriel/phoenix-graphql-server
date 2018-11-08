@@ -1,4 +1,4 @@
-# PhoenixGraphqlServer
+# phoenix-graphql-server (code name: _palmary_)
 
 To start your Phoenix server:
 
